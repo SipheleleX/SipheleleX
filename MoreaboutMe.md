@@ -19,7 +19,6 @@ IT Support Technician transitioning into Cybersecurity
 - **Rank:** 207,573 globally
 - **Score:** 4,308 points
 - **Rooms Completed:** 44
-- **Current Streak:** 10 days
 
 #### Completed Learning Paths
 -  **Pre-Security Path** - Foundational cybersecurity concepts
