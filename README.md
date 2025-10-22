@@ -91,7 +91,7 @@ IT Support Technician transitioning into Cybersecurity
 - [ ] Publish 6 technical write-ups on security topics
 
 ##  Connect With Me
-- LinkedIn: [linkedin.com/in/siphelele-xaba-929a45267](https://linkedin.com/in/siphelele-xaba-929a45267)
+- LinkedIn: [linkedin.com/in/siphelele-xaba-929a45267](https://www.linkedin.com/in/siphelele-xaba-929a45267)
 - TryHackMe: [tryhackme.com/p/rockyou.txt](https://tryhackme.com/p/rockyou.txt)
 - Email: samkeloxaba855@gmail.com
 - Location: Gauteng, South Africa
