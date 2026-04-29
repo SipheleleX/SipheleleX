@@ -1,6 +1,6 @@
 # Hi there, I'm Siphelele Xaba 
 
-##  Junior IT Support Technician | Cybersecurity Enthusiast
+##  Junior IT Infrastructure Support  | Cybersecurity Enthusiast
 
 I'm an IT professional based in Gauteng, South Africa, with expertise in enterprise system administration and a growing passion for cybersecurity.
 ###  Technical Skills
@@ -63,7 +63,7 @@ Check out my repositories to see projects including:
 
 ###  What I'm Working On
 
-- Completing Cyber Security 101 learning path (65% complete)
+- Completing SOC Level 1 learning path (65% complete)
 - Building practical penetration testing skills
 - Expanding knowledge in cloud security and enterprise infrastructure
 
